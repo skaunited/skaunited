@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skaunited
 - 👀 I’m interested in everything related with iOS, as Swift, SwiftUI, XCode ...
-- 🌱 I’m currently working banking apps generic core
+- 🌱 I’m currently working on generic core of banking applications
 - 💞️ I’m looking to collaborate on every type of project that could helping peoples.
 - 📫 You could reach me via 🐥 twitter 🐣 @KingUnited009
 
